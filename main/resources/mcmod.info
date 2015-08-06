@@ -1,0 +1,16 @@
+[
+{
+  "modid": "minecraftversion2",
+  "name": "Minecraft 2.0",
+  "description": "The Next Evolution of Minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "www.trismegistis.com",
+  "updateUrl": "",
+  "authorList": ["TheLaughingMan"],
+  "credits": "The Forge and FML guys, for making this possible.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
